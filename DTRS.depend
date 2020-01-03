@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572776294 source:c:\users\iithindi andreas p\desktop\sorting\dtrs\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
